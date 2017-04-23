@@ -32,6 +32,11 @@
  *  -- everytime found -> remember that node, and continue searching from the 
  *     right of it when next char read in
  *     (searching from right can already prevent the problem)
+ *
+ * The binary search tree implementation is based on
+ * Professor Alistair Moffat's
+ * http://people.eng.unimelb.edu.au/ammoffat/ppsaa/c/treeops.c
+ * http://people.eng.unimelb.edu.au/ammoffat/ppsaa/c/treeops.h
  * 
  * AND FINALLY ALGORITHMS ARE FUN. Yes, Very FUN!
  * 
